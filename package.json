@@ -22,7 +22,7 @@
   "author": "Auth0 <support@auth0.com> (http://auth0.com)",
   "license": "MIT",
   "dependencies": {
-    "auth0-js": "6.1.0",
+    "auth0-js": "6.3.0",
     "bean": "~1.0.4",
     "blueimp-md5": "^1.1.0",
     "bonzo": "^1.3.6",
@@ -64,7 +64,7 @@
     "rimraf": "~2.2.2",
     "through": "^2.3.4",
     "uglify-js": "~2.4.15",
-    "zuul": "https://github.com/jfromaniello/zuul/tarball/phantom_custom_port",
+    "zuul": "2.1.1",
     "zuul-ngrok": "^2.0.1"
   },
   "browserify": {
